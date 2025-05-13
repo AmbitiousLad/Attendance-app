@@ -19,4 +19,5 @@ sudo pip3 install flask
 sudo python3 app.py
 sudo pip3 install mysql-connector-python
 sudo python3 app.py
+hii
 
